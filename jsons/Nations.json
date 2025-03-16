@@ -1,9 +1,9 @@
 [
 	{
-		"name": "Upside-Down",
-		"leaderName": "Rotatceps",
-		"adjective": ["Upside-Down"],
-		"style": "Upside Down",
+		"name": "Shina all mae minamahal",
+		"leaderName": "Copia mechanism",
+		"adjective": ["Shina all mae minamahal"],
+		"style": "Shina all mae minamahal",
 		
 		"startIntroPart1": "History in best the among generals and soldiers its, other the to world the of end one from battle into triumphantly marched have armies its.nation great a as endured has Down-Upside - enemies often and - competitors by surrounded although. Letters and arts, culture of center world the been Down-Upside has long. Rotatceps, you to triumph and life long.",
 		"startIntroPart2": "Time of test the stand will that civilization a build you can? World the of center again once Down-Upside make you will? All to order and peace bringing, again rises empire your that it to see you will? Down-Upside of glory the reclaim more once to you to turn people your, Rotatceps mighty O?",
@@ -19,7 +19,7 @@
 
 		"outerColor": [255,255,255],
 		"innerColor": [0,0,0],
-		"uniqueName": "The World Turned Upside-Down",
+		"uniqueName": "Copia mechanism ko ang pagsasabi ng Shina all mae minamahal",
 		"uniqueText": "All the special advantages that other nations have, combined into one, with none of the special disadvantages. Are you ready to turn the world upside down?",
 		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>", "[Great Scientist] is earned [150]% faster",
 			"[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory",
